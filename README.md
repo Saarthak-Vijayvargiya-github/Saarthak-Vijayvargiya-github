@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saarthak Vijayvargiya
-- 👀 I’m interested in AI and Technology
-- 🌱 I’m currently learning Formal Verification
+- 👀 I’m interested in AI and Harware Technology
+- 🌱 I’m currently learning Formal Verification, Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 
